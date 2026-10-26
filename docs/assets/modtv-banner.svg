@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+ <title id="title">MODTV — Smart TV Toolkit</title>
+ <desc id="desc">Diagnóstico, controle e otimização de Android TV, com fundo azul profundo e destaque âmbar.</desc>
+ <defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1018"/><stop offset="1" stop-color="#141F33"/></linearGradient>
+  <radialGradient id="warm"><stop stop-color="#E39A2D" stop-opacity=".24"/><stop offset="1" stop-color="#E39A2D" stop-opacity="0"/></radialGradient>
+  <radialGradient id="cool"><stop stop-color="#3A60BE" stop-opacity=".30"/><stop offset="1" stop-color="#3A60BE" stop-opacity="0"/></radialGradient>
+  <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#ECF0F0" stop-opacity=".09"/><stop offset="1" stop-color="#ECF0F0" stop-opacity=".025"/></linearGradient>
+ </defs>
+ <rect x="1" y="1" width="1278" height="358" rx="28" fill="url(#bg)" stroke="#B9C5D2" stroke-opacity=".14"/>
+ <ellipse cx="1120" cy="80" rx="340" ry="270" fill="url(#warm)"/>
+ <ellipse cx="170" cy="360" rx="480" ry="280" fill="url(#cool)"/>
+ <g font-family="Inter, Segoe UI, Arial, sans-serif">
+  <text x="64" y="64" font-size="16" font-weight="600" letter-spacing="4" fill="#E39A2D">SMART TV TOOLKIT</text>
+  <text x="60" y="158" font-family="Sora, Segoe UI, Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="-3" fill="#ECF0F0">MODTV</text>
+  <circle cx="408" cy="135" r="9" fill="#E39A2D"/>
+  <text x="64" y="216" font-size="28" fill="#ECF0F0">Diagnóstico, controle e otimização.</text>
+  <text x="64" y="256" font-size="19" fill="#B9C5D2">Conheça o sistema. Meça o impacto de cada mudança.</text>
+  <text x="64" y="312" font-size="13" letter-spacing="3" fill="#93A1B3">ANDROID TV  ·  ADB  ·  PROCESSAMENTO EXTERNO</text>
+ </g>
+ <g transform="translate(870 64)">
+  <rect width="312" height="196" rx="22" fill="url(#glass)" stroke="#ECF0F0" stroke-opacity=".20"/>
+  <rect x="20" y="20" width="272" height="156" rx="12" fill="#0B1018" fill-opacity=".65" stroke="#ECF0F0" stroke-opacity=".08"/>
+  <path d="M48 121h35l18-36 25 61 24-47 17 22h96" fill="none" stroke="#E39A2D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="52" cy="48" r="4" fill="#E39A2D"/>
+  <path d="M68 48h60M148 48h54" stroke="#B9C5D2" stroke-opacity=".35" stroke-width="4" stroke-linecap="round"/>
+  <path d="M156 198v24m-56 0h112" stroke="#B9C5D2" stroke-opacity=".4" stroke-width="4" stroke-linecap="round"/>
+  <text x="156" y="260" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="3" fill="#93A1B3">MEDIR ANTES DE MUDAR</text>
+ </g>
+</svg>

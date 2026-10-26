@@ -1,0 +1,94 @@
+[
+  {
+    "stem": "01-braies",
+    "titulo": "Reflexos no lago",
+    "lugar": "Lago di Braies, Itália",
+    "fotografo": "Luca Bravo",
+    "fonte": "https://unsplash.com/photos/brown-house-near-body-of-water-zAjdgNXsMeg",
+    "download": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?fm=jpg&q=100",
+    "licenca": "Unsplash License",
+    "licenca_url": "https://unsplash.com/license",
+    "arquivo": "01-braies.jpg",
+    "original_resolucao": [
+      4513,
+      3009
+    ],
+    "saida_resolucao": [
+      3840,
+      2160
+    ],
+    "recorte": "central 16:9, sem upscale",
+    "original_sha256": "1372d30f701042d8de4e71ba45c95e9d2f229454380eaaf2471e8083ef1d9666",
+    "jpg_sha256": "05cf0eadeaf76bf1832c57df363ed6763bc9cb26eeaa05b2057682b998e7e9cf",
+    "mp4_sha256": "d48a29c55f454ca4ff19596179bebf37b0c673ac6fb21202c2a05cbd13bdad7a",
+    "preparado_em": "2026-10-25T23:47:39.615088+00:00",
+    "video_cor": {
+      "color_space": "bt709",
+      "color_transfer": "bt709",
+      "color_primaries": "bt709",
+      "color_range": "tv"
+    }
+  },
+  {
+    "stem": "02-dolomitas",
+    "titulo": "Vale das Dolomitas",
+    "lugar": "San Martin de Tor, Itália",
+    "fotografo": "Luca Bravo",
+    "fonte": "https://unsplash.com/photos/wUSoHXq3v4g",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Granite_peaks_over_a_forested_valley_(Unsplash).jpg",
+    "licenca": "CC0 1.0 (publicação anterior a junho de 2017)",
+    "licenca_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Granite_peaks_over_a_forested_valley_%28Unsplash%29.jpg",
+    "arquivo": "02-dolomitas.jpg",
+    "original_resolucao": [
+      4896,
+      3264
+    ],
+    "saida_resolucao": [
+      3840,
+      2160
+    ],
+    "recorte": "central 16:9, sem upscale",
+    "original_sha256": "070e9661c58fd39892f57405d7fc4135579302b96b8a26274a0b22d16f2e5bce",
+    "jpg_sha256": "428bd22e69525014ec6040666eb86f5bf85835c9b5c5c83ed03add558771c097",
+    "mp4_sha256": "ad968be125c3226fb369fa007d137233f919866c7c2385f57257f4da51938e1f",
+    "preparado_em": "2026-10-25T23:47:47.884689+00:00",
+    "video_cor": {
+      "color_space": "bt709",
+      "color_transfer": "bt709",
+      "color_primaries": "bt709",
+      "color_range": "tv"
+    }
+  },
+  {
+    "stem": "03-seljalandsfoss",
+    "titulo": "Luz sobre a cascata",
+    "lugar": "Seljalandsfoss, Islândia",
+    "fotografo": "Robert Lukeman",
+    "fonte": "https://unsplash.com/photos/zNN6ubHmruI",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Seljalandsfoss_Waterfall.jpg",
+    "licenca": "CC0 1.0 (licença revisada no Wikimedia Commons)",
+    "licenca_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/0/02/Seljalandsfoss_Waterfall.jpg",
+    "arquivo": "03-seljalandsfoss.jpg",
+    "original_resolucao": [
+      7952,
+      4811
+    ],
+    "saida_resolucao": [
+      3840,
+      2160
+    ],
+    "recorte": "central 16:9, sem upscale",
+    "original_sha256": "0bc459d126776a6633e5d7487eef6fe7121b96889c078922b23006c09eb3d22f",
+    "jpg_sha256": "f6a10ff99f2be774a036b16916181d7d2f54e9b5f61ffc440615da147fea08fd",
+    "mp4_sha256": "15a86f96cdbbf3f1d56efe3dee411777b999f5ed7443dc9198e2ec9f8318e482",
+    "preparado_em": "2026-10-25T23:47:56.231361+00:00",
+    "video_cor": {
+      "color_space": "bt709",
+      "color_transfer": "bt709",
+      "color_primaries": "bt709",
+      "color_range": "tv"
+    }
+  }
+]

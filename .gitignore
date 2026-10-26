@@ -1,0 +1,29 @@
+# Dados da máquina e evidências locais
+/reports/
+/publication/
+/.env
+/.env.*
+*.keystore
+*.jks
+*.pem
+*.p12
+*.pfx
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+# Saídas, cópias operacionais e mídia regenerável
+/launcher/build*/
+/launcher/backup*/
+/launcher/screenshots/
+/launcher/paisagens/originais/
+/launcher/paisagens/teste/
+/launcher/paisagens/colecao/*.jpg
+/launcher/paisagens/colecao/*.jpeg
+/launcher/paisagens/colecao/*.png
+/launcher/paisagens/colecao/*.webp
+/launcher/paisagens/colecao/*.mp4
+*.apk
+*.log
